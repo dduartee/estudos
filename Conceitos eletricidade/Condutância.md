@@ -1,0 +1,1 @@
+A condutância é o inverso da [[Resistência]]

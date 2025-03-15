@@ -1,0 +1,1 @@
+A resistência é a propriedade de um material condutor de resistir a passagem da [[Corrente]] elétrica

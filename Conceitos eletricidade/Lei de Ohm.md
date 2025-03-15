@@ -1,0 +1,1 @@
+A "Lei" de Ohm é uma relação fundamental da eletricidade que descreve como a [[Tensão]], a [[Corrente]] e a [[Resistência]] devem se comportar diante um circuito elétrico, sempre mantendo uma proporção.
